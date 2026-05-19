@@ -23,7 +23,6 @@ The dataset used in this project contains structured data for analysis and visua
 * Real-world analytical use case
 * Suitable for data cleaning, querying, and dashboard creation
 
-*(You can update this section with your dataset name and details.)*
 
 ---
 
