@@ -135,7 +135,7 @@ The project successfully:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/Mayankverma30/Customer_Shopping_Pattern_analysis.git
 ```
 
 ### 2. Install Required Library
@@ -147,7 +147,7 @@ pip install pandas
 ### 3. Run Python File
 
 ```bash
-python analysis.py
+python Customer_shopping_pattern.py
 ```
 
 ### 4. Run SQL Queries
